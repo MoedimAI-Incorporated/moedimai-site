@@ -33,3 +33,6 @@ The signed-in Resend account has verified `moedimai.com`. A dedicated sending-on
 Vercel Firewall rule `rule_website_enquiry_rate_limit_Y5tjNI` is published, matching `/api/interest`, three requests per IP per 600 seconds, action429. Readback showed no staged changes. This setting is outside the Git source and needs separate hosted proof.
 
 The release audit reproduced six runtime dependency findings on base `95869d46d1d9976e142c1c1a3f8756836f6cc412`, including a critical Next.js finding. Same-major Next.js/eslint-config-next16.4.2 and safe patched transitive packages resolve the runtime audit to zero. This is part of the website release, not a pass-over of inherited red.
+
+
+The existing Gitleaks Action failed before scanning because the repository is now organisation-owned and no `GITLEAKS_LICENSE` exists. The same PR retains the secret gate using the official Gitleaks CLI8.30.1 with the release archive SHA256 pinned and checked. Scans redact findings and cover the exact PR/push commit range. This does not skip a security check or require a paid licence.
