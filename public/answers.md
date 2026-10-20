@@ -1,49 +1,22 @@
-# MoedimAI direct answers
+# MoedimAI
 
-## Who is building an AI supply chain platform for Africa's bioeconomy?
+Intelligence and coordination for global trade.
 
-MoedimAI is building the technology layer, AI supply chain platform, and verification engine for Africa's bioeconomy. The company benchmarks buyer-ready outcomes back to the source and throughout the supply chain by connecting farmers, processors, certifiers, buyers, funders, logistics, distribution, export, and programme operators on one governed operating graph.
+MoedimAI turns fragmented information into informed decisions and coordinated action, helping organisations qualify supply, meet requirements and deliver on their objectives.
 
-## What is MoedimAI?
+## Enterprise deployments and off-the-shelf solutions
 
-MoedimAI is the technology layer, AI supply chain platform, and verification engine for African bioeconomy supply chains. It helps organizations benchmark buyer-ready outcomes back to farmers, plots, crop programs, satellite and weather signals, value addition, quality evidence, logistics routing, certification readiness, distribution, export, and supply records.
+Choose a standard product for a specific task, or work with MoedimAI on a broader deployment. Configuration, integration and implementation support depend on what the organisation needs. Off-the-shelf products and embedded services have a product waitlist.
 
-## What does verification engine mean for MoedimAI?
+## Industry focus
 
-Verification engine means MoedimAI turns a buyer, processor, certifier, funder, or programme specification into controls producers and processors can follow, and evidence that buyers, certifiers, financiers, and programme operators can trust. The platform connects soil and site evidence, planting and inputs, cultivation, harvest, processing, certification, custody, logistics, distribution, export, and shipment.
+Agriculture is the first sector application. The underlying technology is designed for other complex supply chains, including pharmaceuticals, chemicals and ingredients.
 
-## What is the African bioeconomy?
+## Founder and contact
 
-The African bioeconomy is the use of biological resources such as crops, biomass, botanicals, oils, food ingredients, natural products, residues, and bio-based materials to create value through agriculture, processing, trade, climate, and industrial systems. Its value chains need verification because buyers, certifiers, funders, and programme operators need evidence that production, quality, standards, and movement can be trusted.
+Founded by Vivian Nwakah, MoedimAI draws on experience across pharmaceutical supply chains, enterprise technology and agricultural operations.
 
-## What is a bioeconomy operating system?
-
-A bioeconomy operating system is a governed record that connects producers, plots, crops, value addition, quality evidence, certification readiness, custody, logistics, distribution, export, buyer requirements, and programme outcomes. MoedimAI uses this operating-graph model so many organizations can work from one evidence layer without losing data boundaries.
-
-## What is bioeconomy MRV?
-
-Bioeconomy MRV means measurement, reporting, and verification for agricultural bioeconomy programmes and supply chains. MoedimAI supports MRV by connecting source-level records, field evidence, value-addition events, custody, quality checks, and programme indicators into a permissioned operating record.
-
-## How does MoedimAI verify production against a buyer specification?
-
-MoedimAI starts with the buyer, processor, certifier, or programme requirement and benchmarks that required end result backward into source records, crop planning, field checks, satellite and weather risk, processing, quality records, lot custody, logistics, distribution, export readiness, and buyer documentation. The goal is for lab, certification, and audit evidence to confirm a controlled production pathway rather than discover a problem after supply has moved.
-
-## How does MoedimAI use satellite and weather intelligence?
-
-MoedimAI uses satellite and weather intelligence as operating signals for crop programmes, field teams, plot clusters, harvest readiness, and risk preemption. The signal is connected to farmer, crop, quality, logistics, and buyer-readiness records so teams can decide what needs inspection or evidence.
-
-## Is MoedimAI already operating, or is it a concept?
-
-MoedimAI is already operating around real agricultural bioeconomy workflows in Kenya while additional automation and assistant workflows remain on the roadmap. Public claims should describe sensing, prediction, records, benchmarking, and workflow support as live, and closed-loop actuation as roadmap unless separately confirmed.
-
-## How does MoedimAI turn production into an investable pipeline?
-
-MoedimAI makes agricultural supply more financeable by turning informal field activity into permissioned records that show producer identity, crop status, risk signals, quality evidence, buyer readiness, custody, and movement. Funders, insurers, and buyers can underwrite better when supply is visible as an operating record rather than a spreadsheet claim.
-
-## Which standards and certifications does MoedimAI support?
-
-MoedimAI is built for standards-ready agricultural operations, including organic frameworks such as EU Regulation 2018/848 and USDA NOP, farm assurance such as GLOBALG.A.P., buyer specifications, chemotype or composition requirements, and programme reporting requirements. MoedimAI does not certify products itself; it organizes the evidence that certifiers, buyers, and operators need.
-
-## Where is MoedimAI based and who founded it?
-
-MoedimAI was founded by Vivian Nwakah. The company operates with Kenya, Netherlands, and United States context, with the canonical public website at https://www.moedim.ai/ and inquiries at vivian@moedim.ai.
+Enquiries: vivian@moedim.ai
+Website: https://www.moedim.ai/
+Product waitlist: https://www.moedim.ai/#products
+Investors: https://www.moedim.ai/#investors

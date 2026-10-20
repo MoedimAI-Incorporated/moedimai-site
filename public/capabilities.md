@@ -1,40 +1,22 @@
-# MoedimAI capabilities
+# MoedimAI
 
-MoedimAI is the technology layer, AI supply chain platform, and verification engine for Africa's bioeconomy.
+Intelligence and coordination for global trade.
 
-## Operating graph
+MoedimAI turns fragmented information into informed decisions and coordinated action, helping organisations qualify supply, meet requirements and deliver on their objectives.
 
-MoedimAI connects farmers, plots, crop programmes, satellite and weather signals, field checks, value addition, processing, quality evidence, lots, custody, logistics routing, distribution, export readiness, certification readiness, buyer packets, funder reporting, and programme indicators on one governed operating graph.
+## Enterprise deployments and off-the-shelf solutions
 
-## Capture and records
+Choose a standard product for a specific task, or work with MoedimAI on a broader deployment. Configuration, integration and implementation support depend on what the organisation needs. Off-the-shelf products and embedded services have a product waitlist.
 
-- Farmer and organization onboarding.
-- Plot and crop-program records.
-- Field-team workflows.
-- Satellite and weather signals.
-- Crop-stage and harvest-readiness checks.
-- Value-addition and processing records.
-- Quality evidence and buyer packet records.
-- Custody, lot, logistics, and movement records.
+## Industry focus
 
-## Model and guide
+Agriculture is the first sector application. The underlying technology is designed for other complex supply chains, including pharmaceuticals, chemicals and ingredients.
 
-MoedimAI uses AI and operating intelligence to help teams benchmark buyer-ready outcomes back to source, see risk, benchmark readiness, ask on-demand questions, and decide what needs inspection, evidence, processing, logistics routing, distribution, export preparation, or buyer follow-up. Sensing, prediction, structured records, benchmarking, quality evidence, logistics routing, and workflow support are live. Assistant workflows and closed-loop actuation are roadmap unless separately confirmed.
+## Founder and contact
 
-## Verify
+Founded by Vivian Nwakah, MoedimAI draws on experience across pharmaceutical supply chains, enterprise technology and agricultural operations.
 
-MoedimAI supports standards-ready supply through producer evidence, plot records, organic or farm-assurance readiness, processing and quality records, lot custody, certification evidence, buyer specifications, and permissioned reporting.
-
-The verification engine works from specification to shipment: buyer, processor, certifier, funder, or programme requirements become controls that producers and processors can follow, and evidence that buyers, certifiers, financiers, and programme operators can trust.
-
-## Value addition
-
-MoedimAI supports aggregation, processing, steam distillation, drying, dehydration, cold press, quality checks, lot custody, logistics routing, distribution readiness, export pathways, and buyer-ready documentation.
-
-## Multi-tenant governance
-
-MoedimAI is designed for many organizations under governed access boundaries: farmers, processors, certifiers, buyers, funders, programme operators, exporters, trading companies, NGOs, insurers, and institutions can each receive scoped views of the same operating evidence.
-
-## Not claimed
-
-MoedimAI does not claim to be a certifying body, a medical or therapeutic product company, a guarantee of yield, or a substitute for independent audit. It organizes the operating evidence that makes supply more verifiable.
+Enquiries: vivian@moedim.ai
+Website: https://www.moedim.ai/
+Product waitlist: https://www.moedim.ai/#products
+Investors: https://www.moedim.ai/#investors

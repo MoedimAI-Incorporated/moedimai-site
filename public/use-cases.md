@@ -1,35 +1,22 @@
-# MoedimAI use cases
+# MoedimAI
 
-MoedimAI is the technology layer, AI supply chain platform, and verification engine for Africa's bioeconomy.
+Intelligence and coordination for global trade.
 
-## NGOs and development programmes
+MoedimAI turns fragmented information into informed decisions and coordinated action, helping organisations qualify supply, meet requirements and deliver on their objectives.
 
-MoedimAI helps programmes turn bioeconomy strategy into supply-chain operating evidence across farmers, processors, standards, markets, distribution, export, buyer outcomes, and funder reporting. It is relevant for multi-country bioeconomy platforms, observatory evidence layers, and strategy-to-implementation work.
+## Enterprise deployments and off-the-shelf solutions
 
-## Bioeconomy investors
+Choose a standard product for a specific task, or work with MoedimAI on a broader deployment. Configuration, integration and implementation support depend on what the organisation needs. Off-the-shelf products and embedded services have a product waitlist.
 
-MoedimAI helps DFIs, impact funds, banks, insurers, and investors evaluate agricultural pipelines through better records of producers, crop readiness, processing capacity, standards risk, buyer demand, custody, movement, distribution readiness, export readiness, and programme performance.
+## Industry focus
 
-## Certifiers and auditors
+Agriculture is the first sector application. The underlying technology is designed for other complex supply chains, including pharmaceuticals, chemicals and ingredients.
 
-MoedimAI helps operators prepare audit-ready records for certifiers, auditors, ICS teams, and buyer compliance reviewers. It supports producer records, plot records, conversion evidence, field checks, processing, quality, custody, and buyer packet readiness.
+## Founder and contact
 
-## Processors
+Founded by Vivian Nwakah, MoedimAI draws on experience across pharmaceutical supply chains, enterprise technology and agricultural operations.
 
-MoedimAI helps processors see incoming supply, harvest readiness, aggregation, intake, steam distillation, drying, dehydration, cold press, quality evidence, lot creation, and buyer-ready movement.
-
-## Exporters
-
-MoedimAI helps exporters organize source-to-port evidence, quality records, custody, logistics routing, and buyer documentation. Imani Pamoja is the connected trading and export route for African farm output.
-
-## Agricultural trading companies
-
-MoedimAI helps trading companies coordinate verified African supply by benchmarking buyer-ready outcomes back to farmer networks, crop programmes, harvest readiness, value-addition workflows, quality evidence, lot custody, logistics routing, distribution, export readiness, and buyer documentation.
-
-## Cosmetics and fragrance buyers
-
-MoedimAI helps buyers evaluate African botanicals, carrier oils, essential oils, dried botanicals, cold-pressed oils, steam-distilled products, quality evidence, origin records, composition evidence, custody, and buyer specifications.
-
-## Farmer intake
-
-The farmer-facing intake surface is hosted separately at https://intake.moedim.ai/intake. The public marketing site remains separate from the farmer intake app and the internal platform app.
+Enquiries: vivian@moedim.ai
+Website: https://www.moedim.ai/
+Product waitlist: https://www.moedim.ai/#products
+Investors: https://www.moedim.ai/#investors

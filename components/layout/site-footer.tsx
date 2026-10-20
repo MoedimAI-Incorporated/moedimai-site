@@ -1,63 +1,23 @@
-/* eslint-disable @next/next/no-img-element */
 export function SiteFooter() {
   return (
     <footer className="border-t border-cream-50/10 bg-navy-900">
-      <div className="container py-12">
-        <div className="grid gap-10 md:grid-cols-[minmax(0,1fr)_minmax(240px,340px)]">
-          <div>
-            <img src="/images/moedimai-logo-dark.png" alt="MoedimAI" className="h-10 w-auto" />
-            <p className="mt-4 max-w-xs text-sm text-cream-50/70">
-              MoedimAI is the technology layer, AI supply-chain platform, and verification engine
-              for Africa&apos;s bioeconomy.
-            </p>
-          </div>
-          <div>
-            <h2 className="text-sm font-semibold uppercase tracking-wider text-cream-50/60">
-              Contact
-            </h2>
-            <p className="mt-4 text-sm">
-              <a
-                href="mailto:vivian@moedim.ai"
-                data-analytics-event="email_click"
-                data-analytics-label="footer email"
-                className="text-gold-500 underline-offset-4 hover:underline"
-              >
-                vivian@moedim.ai
-              </a>
-            </p>
-            <p className="mt-4 text-sm">
-              <a
-                href="https://www.moedimharvest.com/"
-                target="_blank"
-                rel="noopener noreferrer"
-                data-analytics-event="harvest_click"
-                data-analytics-label="footer moedim harvest"
-                className="text-gold-500 underline-offset-4 hover:underline"
-              >
-                Moedim Harvest ↗
-              </a>
-            </p>
-            <p className="mt-2 text-xs text-cream-50/55">
-              Kenyan ingredient growing programs for global buyers.
-            </p>
-            <p className="mt-4 text-sm text-cream-50/80">Kenya · Netherlands · United States</p>
-            <p className="mt-2 text-xs text-cream-50/55">
-              Source, value addition, verification, logistics, and buyer-ready output.
-            </p>
-          </div>
-        </div>
-        <div className="mt-10 flex flex-col items-start justify-between gap-2 border-t border-cream-50/10 pt-6 text-xs text-cream-50/50 md:flex-row md:items-center">
-          <p>© 2026 MoedimAI Inc. A Delaware public benefit corporation.</p>
-          <div className="flex flex-wrap items-center gap-x-4 gap-y-2">
-            <a href="/privacy" className="underline-offset-4 hover:text-cream-50 hover:underline">
-              Privacy
-            </a>
-            <a href="/security" className="underline-offset-4 hover:text-cream-50 hover:underline">
-              Security
-            </a>
-            <span>From African farms to distribution and export.</span>
-          </div>
-        </div>
+      <div className="container py-10">
+        <p className="text-lg">MoedimAI</p>
+        <p className="mt-3 text-sm text-cream-50/70">
+          Intelligence and coordination for global trade.
+        </p>
+        <a href="mailto:vivian@moedim.ai" className="mt-4 inline-block text-gold-500">
+          vivian@moedim.ai
+        </a>
+        <nav aria-label="Footer" className="mt-6 flex flex-wrap gap-5 text-sm">
+          <a href="/#platform">Platform</a>
+          <a href="/#products">Products & solutions</a>
+          <a href="/#investors">Investors</a>
+          <a href="/contact">App support</a>
+          <a href="/privacy">Privacy</a>
+          <a href="/security">Security</a>
+        </nav>
+        <p className="mt-8 text-xs text-cream-50/60">© 2026 MoedimAI Inc.</p>
       </div>
     </footer>
   );

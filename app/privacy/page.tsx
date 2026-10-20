@@ -7,6 +7,10 @@ export const metadata: Metadata = {
 
 const SECTIONS = [
   [
+    "Website enquiries and product waitlist",
+    "When you contact us through the website, we collect your name, email address, optional organisation, message and the type of enquiry. Resend processes this information to deliver the message to MoedimAI. We use it to respond to your request. If you join the product waitlist, you agree to receive product and early-access updates and can unsubscribe by replying to an email or contacting vivian@moedim.ai. The website does not add general enquiries to a marketing list.",
+  ],
+  [
     "What we collect",
     "Account and contact details; farmer and program registration facts; farm, plot, location, field-visit, photo and document evidence; approved communications; buyer, partner and staff records; and security, device and service logs.",
   ],
@@ -50,7 +54,7 @@ export default function PrivacyPage() {
       <p className="mt-6 max-w-3xl text-base leading-relaxed text-cream-50/85">
         This notice explains the main ways MoedimAI Incorporated and the relevant Moedim operating
         organization handle personal information through moedim.ai, the Moedim operating platform,
-        public intake, field tools and approved communications. Last updated 24 July 2026.
+        public intake, field tools and approved communications. Last updated 20 October 2026.
       </p>
       <div className="mt-12 grid max-w-4xl gap-4 md:grid-cols-2">
         {SECTIONS.map(([title, body]) => (
