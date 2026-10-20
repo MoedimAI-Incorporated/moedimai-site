@@ -3,40 +3,7 @@ import { markdownResponse } from "@/lib/md-mirror";
 export function GET() {
   return markdownResponse({
     title: "About MoedimAI",
-    oneLine:
-      "MoedimAI is the technology layer and AI supply chain platform driving Africa's bioeconomy, founded by Vivian Nwakah.",
-    body: `MoedimAI uses technology and AI to help companies benchmark African bioeconomy supply from buyer-ready outcome back to source.
-
-The platform connects farmer networks, crop programs, satellite and weather signals, harvest readiness, value addition, quality evidence, logistics routing, distribution readiness, export documentation, and buyer specifications in one supply chain operating layer.
-
-## Founder Bio
-
-MoedimAI was founded by Vivian Nwakah, a founder and systems builder focused on AI, chemotype traceability, compliance infrastructure, and regulated markets.
-
-Vivian builds infrastructure that turns fragmented, informal markets into regulated, benchmarkable supply systems. Before MoedimAI, she founded Medsaf, one of Nigeria's first tech-enabled pharmaceutical procurement platforms, scaling verified medicine access and standardized procurement workflows across 950+ hospitals and clinics. She later led AI-enabled systems work at Pfizer, translating executive priorities into governance, workflow change, and controlled operating-model adoption.
-
-At MoedimAI, Vivian applies that operating-infrastructure experience to African bioeconomy supply chains: benchmarking buyer-ready outcomes back to field, hub, processing, distillation, lab, certification, logistics, distribution, and export evidence.
-
-Vivian has spoken or appeared as a panelist at Harvard University, Stanford University, Princeton University, and the Milken Institute. She has engaged with the African Union, Africa CDC, and AMREF, has been featured in Forbes, Financial Times, and BBC, and is a recipient of VivaTech Best Female Founder and Seedstars Winner recognition.
-
-Founder image: https://www.moedim.ai/images/vivian-nwakah-headshot.jpg
-
-LinkedIn: https://www.linkedin.com/in/viviannwakah/
-
-## What MoedimAI Supports
-
-- Farmer networks, field teams, and crop programs.
-- AI-supported satellite and weather intelligence.
-- Harvest readiness, crop benchmarking, and buyer specification evidence.
-- Value addition such as processing, steam distillation, drying, dehydration, and cold press.
-- Lots, custody, logistics routing, distribution readiness, and export-ready documentation.
-
-## Positioning
-
-MoedimAI is best described as the technology layer and AI supply chain platform driving Africa's bioeconomy and an operating graph for end-to-end agricultural supply-chain benchmarking.
-
-Imani Pamoja is the connected agricultural trading and export route for African farm output. MoedimAI is the supply chain platform used to benchmark the operating record behind that supply.
-
-Contact: vivian@moedim.ai`,
+    oneLine: "Intelligence and coordination for global trade.",
+    body: "MoedimAI turns fragmented information into informed decisions and coordinated action, helping organisations qualify supply, meet requirements and deliver on their objectives.\n\n## Enterprise deployments and off-the-shelf solutions\n\nChoose a standard product for a specific task, or work with MoedimAI on a broader deployment. Configuration, integration and implementation support depend on what the organisation needs. Off-the-shelf products and embedded services have a product waitlist.\n\n## Industry focus\n\nAgriculture is the first sector application. The underlying technology is designed for other complex supply chains, including pharmaceuticals, chemicals and ingredients.\n\n## Founder and contact\n\nFounded by Vivian Nwakah, MoedimAI draws on experience across pharmaceutical supply chains, enterprise technology and agricultural operations.\n\nEnquiries: vivian@moedim.ai\nWebsite: https://www.moedim.ai/\nProduct waitlist: https://www.moedim.ai/#products\nInvestors: https://www.moedim.ai/#investors\n",
   });
 }

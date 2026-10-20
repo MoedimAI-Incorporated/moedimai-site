@@ -34,6 +34,9 @@ jobs:
         continue-on-error: true
         run: npm audit --include=dev --audit-level=high
 
+      - name: Website enquiry regression tests
+        run: node --experimental-strip-types --test scripts/tests/*.test.mjs
+
       - name: Lint
         run: npm run lint
 
