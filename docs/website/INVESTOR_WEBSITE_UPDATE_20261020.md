@@ -36,3 +36,8 @@ The release audit reproduced six runtime dependency findings on base `95869d46d1
 
 
 The existing Gitleaks Action failed before scanning because the repository is now organisation-owned and no `GITLEAKS_LICENSE` exists. The same PR retains the secret gate using the official Gitleaks CLI8.30.1 with the release archive SHA256 pinned and checked. Scans redact findings and cover the exact PR/push commit range. This does not skip a security check or require a paid licence.
+
+
+## Phone layout refinement
+
+Obi requested the live destination `www.moedim.ai`, phone optimisation and much less whitespace during the same release. The bounded follow-up uses `codex/website-mobile-spacing` from merged `bf362c05d544b366d8f080ef058112263abca1e1`: compact two-column desktop hero with its existing image, stacked phone layout, reduced section padding and gaps, unchanged copy/forms/photo proportions. Codex builds; `website_investor_review` independently reviews. Hosted narrow-phone and desktop checks remain required. This does not reopen platform work.
