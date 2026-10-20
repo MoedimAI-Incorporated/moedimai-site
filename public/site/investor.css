@@ -1208,3 +1208,233 @@ p {
 .dialog a {
   overflow-wrap: anywhere;
 }
+
+/* Compact layout: keep the opening and the next action close together. */
+.hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr);
+  align-items: center;
+  column-gap: 48px;
+  max-width: 1600px;
+  margin-inline: auto;
+  padding: 38px var(--pad) 0;
+}
+.hero > .wrap {
+  padding-inline: 0;
+  margin: 0;
+}
+.hero-top .label:last-child {
+  display: none;
+}
+.hero h1 {
+  font-size: clamp(44px, 4.7vw, 72px);
+  margin-top: 20px;
+}
+.hero-bottom {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 22px;
+  margin: 25px 0 32px;
+}
+.hero-bottom p {
+  font-size: 15px;
+}
+.hero-bottom .actions {
+  justify-content: flex-start;
+}
+.hero-scene {
+  background: transparent;
+}
+.hero-strip {
+  grid-column: 1 / -1;
+  width: 100%;
+  padding: 20px 0;
+  margin-top: 4px;
+}
+.intro,
+.engine,
+.offers,
+.audience,
+.founder {
+  padding-top: 62px;
+  padding-bottom: 62px;
+}
+.section-top {
+  margin-bottom: 28px;
+}
+.intro-grid,
+.engine-grid,
+.audience-head,
+.panel {
+  gap: 48px;
+}
+.intro h2,
+.section-heading,
+.engine-copy h2 {
+  font-size: clamp(34px, 3.5vw, 52px);
+}
+.promise-row {
+  margin-top: 36px;
+  padding-top: 24px;
+}
+.engine-photo {
+  max-width: 440px;
+  justify-self: end;
+}
+.engine-copy p {
+  margin-top: 20px;
+}
+.offers-head {
+  margin-bottom: 34px;
+}
+.offer,
+.offer + .offer {
+  padding-top: 28px;
+}
+.offer h3 {
+  margin-bottom: 18px;
+}
+.offer .actions {
+  padding-top: 25px;
+}
+.audience-head {
+  margin-bottom: 30px;
+}
+.panel {
+  padding-top: 28px;
+}
+.sector {
+  min-height: 0;
+}
+.sector-copy {
+  padding: 42px clamp(28px, 4vw, 64px);
+}
+.founder {
+  gap: 54px;
+}
+.founder h2 {
+  font-size: clamp(32px, 3.1vw, 47px);
+}
+.investors {
+  padding-top: 48px;
+  padding-bottom: 48px;
+}
+.investors h2 {
+  font-size: clamp(35px, 3.8vw, 58px);
+}
+.footer {
+  padding-top: 34px;
+  padding-bottom: 24px;
+}
+.footer-bottom {
+  margin-top: 28px;
+}
+@media (max-width: 900px) {
+  .hero {
+    column-gap: 28px;
+    grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr);
+  }
+  .hero h1 {
+    font-size: clamp(38px, 5vw, 48px);
+  }
+  .hero .actions {
+    gap: 16px;
+  }
+}
+@media (max-width: 740px) {
+  :root {
+    --pad: 22px;
+  }
+  .hero {
+    display: block;
+    padding-top: 26px;
+  }
+  .hero h1 {
+    font-size: clamp(39px, 10.8vw, 58px);
+    margin-top: 18px;
+  }
+  .hero-bottom {
+    gap: 18px;
+    margin: 20px 0 24px;
+  }
+  .hero-bottom p {
+    font-size: 14px;
+  }
+  .hero .actions {
+    gap: 14px;
+  }
+  .hero .btn {
+    min-height: 46px;
+    padding: 13px 17px;
+  }
+  .hero .text-link {
+    font-size: 12px;
+    gap: 12px;
+  }
+  .hero-strip {
+    margin-top: 16px;
+    padding-block: 16px;
+  }
+  .intro,
+  .engine,
+  .offers,
+  .audience,
+  .founder {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  .section-top {
+    margin-bottom: 22px;
+  }
+  .intro-grid,
+  .engine-grid,
+  .audience-head,
+  .panel,
+  .founder {
+    gap: 24px;
+  }
+  .intro h2,
+  .section-heading,
+  .engine-copy h2 {
+    font-size: 34px;
+  }
+  .promise-row {
+    margin-top: 26px;
+    gap: 21px;
+  }
+  .engine-photo {
+    max-width: 100%;
+    margin-top: 0;
+    justify-self: stretch;
+  }
+  .offers-head {
+    margin-bottom: 28px;
+  }
+  .offer-grid {
+    gap: 32px;
+  }
+  .offer h3 {
+    font-size: 29px;
+  }
+  .sector-copy {
+    padding: 32px var(--pad);
+  }
+  .sector-copy h2 {
+    font-size: 34px;
+    margin-block: 18px;
+  }
+  .founder h2 {
+    font-size: 32px;
+  }
+  .investors {
+    padding-block: 36px;
+  }
+  .investors h2 {
+    font-size: 36px;
+    margin-block: 20px;
+  }
+  .footer-top {
+    gap: 25px;
+  }
+}
